@@ -1,0 +1,20 @@
+{        "shippinginfo":{
+                "address":"TM house",
+                "phoneno":8111957466,
+                "city":"Malappuram",
+                "state":"Kerala",
+                "pincode":"676519",
+                "country":"India"
+        },
+        "orderitem":{
+                "name":"Tshirt",
+                "quantity":2,
+                "image":"Tshirt",
+                "price":1099,
+                "product":"6391d74cb287143f76d8b9d7"
+        },
+        "paymentinfo":"pament_ID_33333222",
+        "taxamount":5,
+        "shippingamount":10,
+        "totalamount":1114
+}
